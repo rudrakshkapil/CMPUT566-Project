@@ -20,7 +20,7 @@ python3 -m classifiers.KNN
 
 For training both the PyTorch and custom CNN models, I have used the `running_with_GPU.ipynb` notebook to use the GPU provided by Google Colab. 
 
-The custom implementation of CNN layers can be found in `./classifiers/custom_CNN_utils/layers,py`. The forward and backward passes of 5 different layers have been implemented from scratch as AutoGrad functions, and then these functions have been wrapped inside PyTorch modules so that the same API can be used to train both the PyTorch CNN and the custom CNN. 
+The custom implementation of CNN layers can be found in `./classifiers/custom_CNN_utils/layers.py`. The forward and backward passes of 5 different layers have been implemented from scratch as AutoGrad functions, and then these functions have been wrapped inside PyTorch modules so that the same API can be used to train both the PyTorch CNN and the custom CNN. 
 The implemented layers are the ones commonly used in CNNs, and are the following,
 - Affine 
 - Convolutional
@@ -46,7 +46,7 @@ The models I trained and whose accuracies are quoted in the accompanying project
 
 ### Dataset
 The dataset under consideration in this project is CIFAR-10. It can be downloaded by running the `download_cifar.sh` script. Running this script will save the dataset inside the `./dataset` directory.
-The python file `data,py` contains utility code for loading and preprocessing the dataset. This code is implicitly called from the classifier python files.
+The python file `data.py` contains utility code for loading and preprocessing the dataset. This code is implicitly called from the classifier python files.
 
 
 ### Evaluation
