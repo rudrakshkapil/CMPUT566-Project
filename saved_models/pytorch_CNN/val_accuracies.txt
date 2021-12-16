@@ -1,0 +1,10 @@
+lr=0.0001, batch_size=64, epochs=5, p=0, normalize=True, train_proportion=0.99 ==>56.39999999999999
+lr=0.0001, batch_size=64, epochs=5, p=0.125, normalize=True, train_proportion=0.99 ==>57.599999999999994
+lr=0.0001, batch_size=64, epochs=5, p=0.25, normalize=True, train_proportion=0.99 ==>61.199999999999996
+lr=0.0001, batch_size=64, epochs=5, p=0.375, normalize=True, train_proportion=0.99 ==>61.0
+lr=0.0001, batch_size=64, epochs=5, p=0.5, normalize=True, train_proportion=0.99 ==>55.800000000000004
+lr=0.0001, batch_size=64, epochs=5, p=0.625, normalize=True, train_proportion=0.99 ==>48.8
+lr=0.0001, batch_size=64, epochs=5, p=0.75, normalize=True, train_proportion=0.99 ==>39.2
+lr=0.0001, batch_size=64, epochs=5, p=0.875, normalize=True, train_proportion=0.99 ==>18.6
+lr=0.0001, batch_size=64, epochs=5, p=0.99, normalize=True, train_proportion=0.99 ==>11.0
+[TEST], 61.79

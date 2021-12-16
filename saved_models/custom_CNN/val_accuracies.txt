@@ -1,0 +1,2 @@
+lr=0.0001, batch_size=64, epochs=5, p=0.25, normalize=True, train_proportion=0.99 ==>61.4
+[TEST], 59.61

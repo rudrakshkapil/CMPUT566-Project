@@ -1,0 +1,15 @@
+penalty=l2, C=0.0001, solver=saga, max_iter=100, normalize=True, train_proportion=0.99 ==>37.2
+penalty=l2, C=0.0003, solver=saga, max_iter=100, normalize=True, train_proportion=0.99 ==>37.8
+penalty=l2, C=0.001, solver=saga, max_iter=100, normalize=True, train_proportion=0.99 ==>39.0
+penalty=l2, C=0.003, solver=saga, max_iter=100, normalize=True, train_proportion=0.99 ==>38.2
+penalty=l2, C=0.01, solver=saga, max_iter=100, normalize=True, train_proportion=0.99 ==>37.8
+penalty=l2, C=0.03, solver=saga, max_iter=100, normalize=True, train_proportion=0.99 ==>37.4
+penalty=l2, C=0.1, solver=saga, max_iter=100, normalize=True, train_proportion=0.99 ==>37.0
+penalty=l2, C=0.3, solver=saga, max_iter=100, normalize=True, train_proportion=0.99 ==>37.0
+penalty=l2, C=1, solver=saga, max_iter=100, normalize=True, train_proportion=0.99 ==>37.0
+penalty=l2, C=3, solver=saga, max_iter=100, normalize=True, train_proportion=0.99 ==>37.0
+penalty=l2, C=10, solver=saga, max_iter=100, normalize=True, train_proportion=0.99 ==>37.0
+penalty=l2, C=30, solver=saga, max_iter=100, normalize=True, train_proportion=0.99 ==>36.8
+penalty=l2, C=100, solver=saga, max_iter=100, normalize=True, train_proportion=0.99 ==>36.8
+penalty=l2, C=300, solver=saga, max_iter=100, normalize=True, train_proportion=0.99 ==>37.0
+[TEST], 41.64

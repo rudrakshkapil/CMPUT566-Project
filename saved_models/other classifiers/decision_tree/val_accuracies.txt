@@ -1,0 +1,2 @@
+criterion=gini, split=best, max_depth=None, min_samples_split=20, min_samples_leaf=10, normalized=True, train_proportion=0.99 => 28.000000000000004%
+criterion=gini, split=best, max_depth=None, min_samples_split=20, min_samples_leaf=10, normalized=False, train_proportion=0.99 => 26.8%

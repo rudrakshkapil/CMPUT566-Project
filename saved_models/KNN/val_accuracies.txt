@@ -1,0 +1,11 @@
+k=1, weights=uniform, algo=auto, leaf_size=30, p=2, normalize=True, train_proportion=0.99 ==>35.0
+k=2, weights=uniform, algo=auto, leaf_size=30, p=2, normalize=True, train_proportion=0.99 ==>31.0
+k=3, weights=uniform, algo=auto, leaf_size=30, p=2, normalize=True, train_proportion=0.99 ==>35.4
+k=4, weights=uniform, algo=auto, leaf_size=30, p=2, normalize=True, train_proportion=0.99 ==>34.599999999999994
+k=5, weights=uniform, algo=auto, leaf_size=30, p=2, normalize=True, train_proportion=0.99 ==>33.0
+k=6, weights=uniform, algo=auto, leaf_size=30, p=2, normalize=True, train_proportion=0.99 ==>32.4
+k=7, weights=uniform, algo=auto, leaf_size=30, p=2, normalize=True, train_proportion=0.99 ==>32.800000000000004
+k=8, weights=uniform, algo=auto, leaf_size=30, p=2, normalize=True, train_proportion=0.99 ==>31.8
+k=9, weights=uniform, algo=auto, leaf_size=30, p=2, normalize=True, train_proportion=0.99 ==>33.800000000000004
+k=10, weights=uniform, algo=auto, leaf_size=30, p=2, normalize=True, train_proportion=0.99 ==>33.0
+[TEST], 32.99
