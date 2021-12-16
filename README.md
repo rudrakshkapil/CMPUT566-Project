@@ -36,11 +36,12 @@ Apart from the three algorithms under consideration that were studied in-depth a
 ### Saved Models
 On this repository, the directories within `./saved_models` contain `.txt` files listing the validation set accuracies for different choices of hyperparameters. These files were obtained during the hyperparameter tuning phase of each model.
 
-The trained models whose accuracies are quoted in the accompanying project report can be downlaoded from this [link](https://drive.google.com/drive/folders/1DFSq8fYcm0zlDnGwbsVPN2esuh-hLncc?usp=sharing). If ypu wish to run the code with these trained models rather than training once again, 
+The models I trained and whose accuracies are quoted in the accompanying project report can be downlaoded from this [google drive link](https://drive.google.com/drive/folders/1DFSq8fYcm0zlDnGwbsVPN2esuh-hLncc?usp=sharing). If ypu wish to run the code with these trained models rather than training once again, 
 1. Download the files
 2. Store them in their corresponding directories within `./saved_models`.
-3. Alter the `values_calculated` flag within the classifier python file (set to True)
+3. Alter the `values_calculated` flag within the appropriate classifier python file (set to True)
 4. Run the classifier python file
+
 
 
 ### Dataset
