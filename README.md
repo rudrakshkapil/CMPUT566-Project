@@ -1,7 +1,7 @@
 # CMPUT566-Project
 **Title**: A Study of Image Classification ML Algorithms, Including a Custom Implementation of CNNs
 
-This repository contains the code for my final project for the UAlberta course CMPUT 466/566 Machine Learning.  
+This repository contains the code for my final project for the UAlberta course CMPUT 466/566 Machine Learning. A version of the project report has been uplaoded to this repository, however the final version is the one submitted through eClass.  
 
 ## Organization
 
